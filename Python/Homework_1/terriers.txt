@@ -1,0 +1,38 @@
+Breed,CNT
+Welsh Terrier,79
+Cairn Terrier,324
+West Highland White Terrier,674
+Border Terrier,243
+Jack Russel Terrier,2293
+Terrier,339
+Yorkshire Terrier,2386
+Tibet Terrier,291
+Soft Coated Wheaten Terrier,40
+Parson Jack Russell Terrier,291
+Irish Terrier,136
+Parson Russell Terrier,480
+Parson Terrier,27
+Scottish Terrier,66
+Airedale Terrier,131
+Miniature Bull Terrier,111
+Lakeland Terrier,43
+Manchester Terrier,33
+Silky Terrier,7
+Irish Soft Coated Wheaten Terrier,45
+Norwich Terrier,84
+Skye Terrier,16
+Russischer schwarzer Terrier,49
+American Staffordshire Terrier,53
+Boston Terrier,268
+Australian Silky Terrier,3
+Australian Terrier,38
+Norfolk Terrier,32
+English Staffordshire Terrier,7
+Pit Bull Terrier,15
+Kerry Blue Terrier,6
+Biewer Yorkshire Terrier,112
+English Toy Terrier,29
+Bull Terrier,3
+Bedlington Terrier,7
+Brasilianischer Terrier,4
+Tschechischer Terrier,2
